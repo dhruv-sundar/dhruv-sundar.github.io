@@ -9,7 +9,7 @@ $('body').terminal({
         this.echo('hello <name>, about, github, resume, contact, projects')
     },
     github: function(){
-        window.open("https://www.github.com/dhruv-sundararaman");
+        window.open("https://www.github.com/dhruv-sundar");
     },
     resume: function(){
         window.open(resPath);
