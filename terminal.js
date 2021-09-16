@@ -6,7 +6,7 @@ $('body').terminal({
                   '. Welcome to this portfolio.');
     },
     list: function(){
-        this.echo('hello <name>, about, github, resume, contact, projects')
+        this.echo('hello <name>, about, github, resume, contact, projects, linkedin')
     },
     github: function(){
         window.open("https://www.github.com/dhruv-sundar");
@@ -23,6 +23,9 @@ $('body').terminal({
     },
     projects: function(){
         this.echo("demos coming soon...")
+    },
+    linkedin: function(){
+        window.open("https://www.linkedin.com/in/dhruv-sundararaman-a92503182/");
     }
 },
 {
