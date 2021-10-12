@@ -1,4 +1,4 @@
-const resPath = './assets/test.pdf';
+const resPath = './assets/Sundararaman_Dhruv_Resume_2021.pdf';
 
 $('body').terminal({
     hello: function(what) {
