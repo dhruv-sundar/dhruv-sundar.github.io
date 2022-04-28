@@ -1,4 +1,4 @@
-const resPath = './assets/Sundararaman_Dhruv_Resume_2021.pdf';
+const resPath = './assets/sundararaman_dhruv_resume_2022b.pdf';
 
 $('body').terminal({
     hello: function(what) {
